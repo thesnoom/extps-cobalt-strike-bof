@@ -14,16 +14,22 @@ make
 
 Aggressor script included with the following commands:
 extps
+
 extps proc/user
+
 extps proc user
 
+
 e.g: extps explorer snoom
+
 e.g: extps snoom
+
 e.g: extps onedrive admin
 
 > NOTE: BOF is for 64-bit use only.
 
 ## Example
+```
 beacon> extps explorer
 [*] Extended process list (@thesnoom)
 [+] host called home, sent: 8650 bytes
@@ -68,3 +74,4 @@ PID    PPID   Name                           Arch  Session  User
 4568   5688   vm3dservice.exe                x64   1        DESKTOP-G69JOUU\snoom
 7364   676    NisSrv.exe                     x64   0        NT AUTHORITY\LOCAL SERVICE
 5188   676    svchost.exe                    x64   0        NT AUTHORITY\NETWORK SERVICE
+```
