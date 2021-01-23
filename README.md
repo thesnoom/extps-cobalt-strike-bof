@@ -39,7 +39,9 @@ beacon> extps explorer
 PID    PPID   Name                           Arch  Session  User
 ----   ----   ----                           ----  -------  ----
 5688   3360   explorer.exe                   x64   1        DESKTOP-G69JOUU\snoom
+```
 
+```
 beacon> extps host snoom
 [*] Extended process list (@thesnoom)
 [+] host called home, sent: 8651 bytes
@@ -59,7 +61,9 @@ PID    PPID   Name                           Arch  Session  User
 744    844    ShellExperienceHost.exe        x64   1        DESKTOP-G69JOUU\snoom
 8908   844    dllhost.exe                    x64   1        DESKTOP-G69JOUU\snoom
 6288   844    SecurityHealthHost.exe         x64   1        DESKTOP-G69JOUU\snoom
+```
 
+```
 beacon> extps SERVICE
 [*] Extended process list (@thesnoom)
 [+] host called home, sent: 8649 bytes
